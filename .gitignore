@@ -1,0 +1,10 @@
+.DS_Store
+*.xcuserdatad
+*.xcworkspace
+xcuserdata/
+DerivedData/
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+Navigation 2/
+Navigation/
+*.swp
